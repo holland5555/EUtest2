@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+github_client-id : 'c1274c71c45965b03cdb'
+
+
+aWs_account: "3258-1515-6278"
+
+<h2>JavaScript Expressions</h2>
+
+<p>Expressions compute to values.</p>
+
+<p id="demo"></p>
+
+<script>
+var x;
+x = 5;
+document.getElementById("demo").innerHTML = x * 10;
+</script>
+
+</body>
+</html>
